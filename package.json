@@ -1,6 +1,6 @@
 {
   "name": "@rundown-studio/consts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shared constants for the Rundown Studio project",
   "license": "ISC",
   "author": "Lukas Hermann <hey@lukashermann.dev>",
