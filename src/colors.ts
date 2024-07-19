@@ -40,3 +40,22 @@ export const CELL_TEXT_COLOURS = [
   'rgb(125, 211, 252)', // sky-300 #7dd3fc
   'rgb(190, 242, 100)', // lime-300 #bef264
 ]
+
+export const CELL_SELECT_COLOUR_CLASSES = [
+  'bg-red-800',
+  'bg-green-800',
+  'bg-purple-800',
+  'bg-yellow-800',
+  'bg-blue-800',
+  'bg-rose-800',
+  'bg-teal-800',
+  'bg-orange-800',
+  'bg-indigo-700',
+  'bg-cyan-700',
+  'bg-amber-700',
+  'bg-fuchsia-700',
+  'bg-sky-700',
+  'bg-emerald-700',
+  'bg-pink-700',
+  'bg-lime-700',
+]
