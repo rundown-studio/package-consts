@@ -11,3 +11,9 @@ npm i @rundown-studio/consts
 ## Pinned Dependencies
 
 - no issues
+
+## Releasing/Packaging
+
+Use the npm command `npm version major|minor|patch`.
+
+Then `git push --follow-tags`

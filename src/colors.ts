@@ -1,4 +1,4 @@
-export const CUE_BACKGROUND_COLOURS = [
+export const CUE_BACKGROUND_COLORS = [
   'transparent',
   '#3b0764', // purple-950
   '#052e16', // green-900
@@ -13,7 +13,7 @@ export const CUE_BACKGROUND_COLOURS = [
   '#ca8a04', // yellow-600
 ]
 
-export const CELL_HIGHLIGHT_COLOURS = [
+export const CELL_HIGHLIGHT_COLORS = [
   '#991b1b', // red-800
   '#6b21a8', // purple-800
   '#166534', // green-800
@@ -27,7 +27,7 @@ export const CELL_HIGHLIGHT_COLOURS = [
   '#3f6212', // lime-800
 ]
 
-export const CELL_TEXT_COLOURS = [
+export const CELL_TEXT_COLORS = [
   'rgb(252, 165, 165)', // red-300 #fca5a5
   'rgb(216, 180, 254)', // purple-300 #d8b4fe
   'rgb(134, 239, 172)', // green-300 #86efac
@@ -41,7 +41,7 @@ export const CELL_TEXT_COLOURS = [
   'rgb(190, 242, 100)', // lime-300 #bef264
 ]
 
-export const CELL_SELECT_COLOUR_CLASSES = [
+export const CELL_SELECT_COLORS = [
   '#991b1b', // bg-red-800
   '#166534', // bg-green-800
   '#6b21a8', // bg-purple-800
