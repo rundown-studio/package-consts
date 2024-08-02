@@ -42,20 +42,20 @@ export const CELL_TEXT_COLOURS = [
 ]
 
 export const CELL_SELECT_COLOUR_CLASSES = [
-  'bg-red-800',
-  'bg-green-800',
-  'bg-purple-800',
-  'bg-yellow-800',
-  'bg-blue-800',
-  'bg-rose-800',
-  'bg-teal-800',
-  'bg-orange-800',
-  'bg-indigo-700',
-  'bg-cyan-700',
-  'bg-amber-700',
-  'bg-fuchsia-700',
-  'bg-sky-700',
-  'bg-emerald-700',
-  'bg-pink-700',
-  'bg-lime-700',
+  '#991b1b', // bg-red-800
+  '#166534', // bg-green-800
+  '#6b21a8', // bg-purple-800
+  '#854d0e', // bg-yellow-800
+  '#1e40af', // bg-blue-800
+  '#9f1239', // bg-rose-800
+  '#115e59', // bg-teal-800
+  '#9a3412', // bg-orange-800
+  '#4338ca', // bg-indigo-700
+  '#0e7490', // bg-cyan-700
+  '#b45309', // bg-amber-700
+  '#a21caf', // bg-fuchsia-700
+  '#0369a1', // bg-sky-700
+  '#047857', // bg-emerald-700
+  '#be185d', // bg-pink-700
+  '#4d7c0f', // bg-lime-700
 ]
