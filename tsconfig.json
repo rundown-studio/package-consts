@@ -3,10 +3,9 @@
     "target": "es2016",
     "module": "esnext",
     "moduleResolution": "node",
-    "outDir": "dist/esm/",
-    "declaration": true,
-    "forceConsistentCasingInFileNames": true,
     "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   },
   "include": [
