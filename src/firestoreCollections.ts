@@ -1,4 +1,5 @@
 export const TEAM_COLLECTION = 'teams'
+export const EVENT_COLLECTION = 'events'
 export const RUNDOWN_COLLECTION = 'rundowns'
 export const CUE_COLLECTION = 'cues'
 export const COLUMN_COLLECTION = 'columns'
