@@ -1,7 +1,7 @@
-import { expect } from 'chai'
+import { describe, it, expect } from 'vitest'
 
 describe('index', () => {
   it('empty test', () => {
-    expect(true).to.equal(true)
+    expect(true).toBe(true)
   })
 })
