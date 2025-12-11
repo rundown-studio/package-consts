@@ -25,6 +25,18 @@ export const CELL_HIGHLIGHT_COLORS = [
   '#86198f', // fuchsia-800
   '#075985', // sky-800
   '#3f6212', // lime-800
+  '#000000', // black
+  '#fca5a5', // red-300
+  '#d8b4fe', // purple-300
+  '#86efac', // green-300
+  '#93c5fd', // blue-300
+  '#fda4af', // rose-300
+  '#fde047', // yellow-300
+  '#fdba74', // orange-300
+  '#5eead4', // teal-300
+  '#f0abfc', // fuchsia-300
+  '#7dd3fc', // sky-300
+  '#bef264', // lime-300
 ]
 
 export const CELL_TEXT_COLORS = [
@@ -39,6 +51,18 @@ export const CELL_TEXT_COLORS = [
   'rgb(240, 171, 252)', // fuchsia-300 #f0abfc
   'rgb(125, 211, 252)', // sky-300 #7dd3fc
   'rgb(190, 242, 100)', // lime-300 #bef264
+  'rgb(0, 0, 0)', // black #000
+  'rgb(185, 28, 28)', // red-700 #b91c1c
+  'rgb(126, 34, 206)', // purple-700 #7e22ce
+  'rgb(21, 128, 61)', // green-700 #15803d
+  'rgb(29, 78, 216)', // blue-700 #1d4ed8
+  'rgb(190, 18, 60)', // rose-700 #be123c
+  'rgb(161, 98, 7)', // yellow-700 #a16207
+  'rgb(194, 65, 12)', // orange-700 #c2410c
+  'rgb(15, 118, 110)', // teal-700 #0f766e
+  'rgb(162, 28, 175)', // fuchsia-700 #a21caf
+  'rgb(3, 105, 161)', // sky-700 #0369a1
+  'rgb(77, 124, 15)', // lime-700 #4d7c0f
 ]
 
 export const CELL_SELECT_COLORS = [
