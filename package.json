@@ -27,7 +27,8 @@
     "test": "vitest run",
     "test:ci": "vitest run",
     "lint": "eslint",
-    "build": "tsup"
+    "build": "tsup",
+    "postinstall": "node -e \"process.emitWarning('@rundown-studio/consts is deprecated and being phased out in favour of @rundown-studio/utils. Migrate imports to @rundown-studio/utils.', { type: 'DeprecationWarning', code: 'RDS_CONSTS_DEPRECATED' })\""
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
